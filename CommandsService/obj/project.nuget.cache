@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCgqPZbVNpKD2WB1n55Y7L2qJQvWgwU8Knudby95wjrLaGpS25t3/yLsZFNhv0c989lV3/VHOiU1/3f8dHSGpQ==",
+  "dgSpecHash": "81epaSVNosZe9RHyg5QInvPaPB7XY6X/waXpVEu+2hCrRJzp9HFV8JYKIISlocnq6372u5j6HeKoIpmvP0sGIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\butrints\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\butrints\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

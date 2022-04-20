@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\CommandsService.csproj",
+        "projectPath": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\butrints\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\CommandsService\\obj\\",
+        "outputPath": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
