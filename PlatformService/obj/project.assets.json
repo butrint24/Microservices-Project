@@ -6084,11 +6084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\PlatformService\\PlatformService.csproj",
+      "projectPath": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\butrints\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\butrints\\Desktop\\Microservices-Project\\PlatformService\\obj\\",
+      "outputPath": "C:\\Users\\butrints\\Desktop\\WorkBench\\Microservices-Project\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
