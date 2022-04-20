@@ -5,7 +5,6 @@ C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.json
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\PlatformService.runtimeconfig.dev.json
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\PlatformService.dll
-C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\ref\PlatformService.dll
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\PlatformService.pdb
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -56,7 +55,6 @@ C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.Manifest.cache
-C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\staticwebassets\PlatformService.StaticWebAssets.xml
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\scopedcss\bundle\PlatformService.styles.css
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
@@ -65,3 +63,4 @@ C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
 C:\Users\butrints\Desktop\Microservices-Project\PlatformService\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\butrints\Desktop\Microservices-Project\PlatformService\obj\Debug\net5.0\refint\PlatformService.dll
