@@ -18,7 +18,8 @@ namespace CommandsService.Data
                 .Entity<Platform>()
                 .HasMany(p => p.Commands)
                 .WithOne(p => p.Platform!)
-                .HasForeignKey(p => p.Platform.Id);
+                .HasForeignKey(p => p.PlatformId);
+
             modelBuilder
                 .Entity<Command>()
                 .HasOne(p => p.Platform)
