@@ -48,9 +48,7 @@ namespace PlatformService.Controllers
         {
             var platformItem = _repository.GetPlatformById(id);
             if(platformItem != null)
-            {
                 return Ok(_mapper.Map<PlatformReadDto>(platformItem));
-            }
 
             return NotFound();
         }
@@ -59,6 +57,7 @@ namespace PlatformService.Controllers
         public async Task<ActionResult<PlatformReadDto>> CreatePlatform(PlatformCreateDto platformCreateDto)
         {
             var platformModel = _mapper.Map<Platform>(platformCreateDto);
+
             _repository.CreatePlatform(platformModel);
             _repository.SaveChanges();
 
@@ -83,7 +82,6 @@ namespace PlatformService.Controllers
             }
             catch (Exception ex)
             {
-
                 Console.WriteLine($"--> Could not send asynchronously: {ex.Message}");
             }
 
