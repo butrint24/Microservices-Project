@@ -16,6 +16,7 @@ namespace PlatformService.AsyncDataServices
         public MessageBusClient(IConfiguration configuration)
         {
             _configuration = configuration;
+
             var factory = new ConnectionFactory()
             {
                 HostName = _configuration["RabbitMQHost"],
@@ -24,6 +25,7 @@ namespace PlatformService.AsyncDataServices
             try
             {
                 _connection = factory.CreateConnection();
+
                 _channel = _connection.CreateModel();
 
                 _channel.ExchangeDeclare(exchange: "trigger", type: ExchangeType.Fanout);
@@ -34,7 +36,6 @@ namespace PlatformService.AsyncDataServices
             }
             catch (Exception ex)
             {
-
                 Console.WriteLine($"--> Could not connect to the Message Bus {ex.Message}");
             }
         }
@@ -70,7 +71,6 @@ namespace PlatformService.AsyncDataServices
             {
                 _channel.Close();
                 _connection.Close();
-
             }
         }
 
